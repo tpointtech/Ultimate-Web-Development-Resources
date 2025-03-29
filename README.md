@@ -146,7 +146,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
 - [Treehouse](https://teamtreehouse.com/)
-- [javatpoint](https://www.javatpoint.com/)
+- [tpointtech](https://www.tpointtech.com/)
 - [Odin Project](https://www.theodinproject.com/)
 - [Select Star SQL](https://selectstarsql.com/)
 - [MDN Webdocs](https://developer.mozilla.org/)
